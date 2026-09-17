@@ -1,0 +1,5 @@
+# Only public release information belongs in Git. Distribution files are
+# published as reviewed release assets, never copied from the private workspace.
+*
+!.gitignore
+!README.md
