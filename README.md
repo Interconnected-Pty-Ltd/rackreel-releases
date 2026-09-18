@@ -6,7 +6,7 @@ This is the public distribution repository for RackReel installers and the
 matching third-party source, licence notices and build materials. RackReel's
 proprietary application source is maintained separately in a private repository.
 
-Download [RackReel 0.4.0](https://github.com/Interconnected-Pty-Ltd/rackreel-releases/releases/tag/v0.4.0)
+Download [RackReel 0.4.1](https://github.com/Interconnected-Pty-Ltd/rackreel-releases/releases/tag/v0.4.1)
 from Releases. Matching third-party source, licence notices, build/replacement
 instructions and SHA-256 checksums accompany the installers.
 
