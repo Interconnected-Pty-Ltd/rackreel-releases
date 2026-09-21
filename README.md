@@ -11,8 +11,8 @@ from Releases. Matching third-party source, licence notices, build/replacement
 instructions and SHA-256 checksums accompany the installers.
 
 - Mac: Apple Silicon, macOS 15 or newer; Developer ID signed and Apple notarized.
-- Windows: download withheld pending publisher signing and final verification.
-  The unsigned installer has been withdrawn; a signed installer will follow.
+- Windows: 64-bit Windows 10 or newer; app, installer and uninstaller publisher-signed
+  as Interconnected Pty Ltd and timestamped. Per-user installation, no admin required.
 
 Only the artifacts listed in a published release are public distributions;
 development, staging and private trainer builds are not included.
